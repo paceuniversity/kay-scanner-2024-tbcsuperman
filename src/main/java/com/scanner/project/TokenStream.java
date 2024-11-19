@@ -1,4 +1,4 @@
-package com.scanner.project;
+
 // TokenStream.java
 
 // Implementation of the Scanner for JAY
@@ -117,8 +117,6 @@ public class TokenStream {
 				if (nextChar == '=') {
 					t.setValue("!=");
 					nextChar = readChar();
-				} else {
-					t.setType("Other");
 				}
 				return t;
 			case '|':
