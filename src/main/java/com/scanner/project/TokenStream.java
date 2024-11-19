@@ -1,3 +1,4 @@
+package com.scanner.project;
 
 // TokenStream.java
 
@@ -6,14 +7,6 @@
 // This code DOES NOT implement a scanner for JAY yet. You have to complete
 // the code and also make sure it implements a scanner for JAY - not something
 // else.
-
-//TokenStream.java
-
-//Implementation of the Scanner for KAY
-
-//This code DOES NOT implement a scanner for KAY yet. You have to complete
-//the code and also make sure it implements a scanner for KAY - not something
-//else.
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
